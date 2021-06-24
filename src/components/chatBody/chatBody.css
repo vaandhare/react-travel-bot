@@ -1,0 +1,7 @@
+.main__chatbody {
+    flex-grow: 1;
+    background-color: #f7d794;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
